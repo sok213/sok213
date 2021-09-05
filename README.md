@@ -6,7 +6,7 @@ I am based in Los Angeles, CA. I develop projects for fun and professionally. De
 
 You can see my personal portfolio [here](https://www.sokcodes.com/).
 
-Skills: REACT / JS / HTML / CSS / DESIGN
+Skills: JavaScript / HTML / CSS / REACT / ADOBE XD / JIRA / GIT / VERSION CONTROL / HUMAN INTERACTION
 
 
 
