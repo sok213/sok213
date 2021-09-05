@@ -1,4 +1,4 @@
-# Lover of technology and code.
+# Lover of technology, art, health and code.
 ### Front-End Developer– I make pretty things come to life. 🌻
 ![Front-End Developer– I make pretty things come to life. 🌻](https://user-images.githubusercontent.com/8195814/132118007-f04d1466-d7e3-4eaa-b2b7-381edd5ca4ab.jpg)
 
