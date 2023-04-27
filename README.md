@@ -4,7 +4,7 @@
 
 I am based in Los Angeles, CA. I develop projects for fun and professionally. Design is my hobby and code is my art. Hope you like my projects and hopefully you find them as fun to peak into as it was fun for me to build.
 
-You can see my personal portfolio [here](https://www.sokcodes.com/).
+You can see my personal portfolio [here](https://www.hiresok.com/).
 
 Skills: JAVASCRIPT / HTML / CSS / REACT / ADOBE XD / JIRA / VERSION CONTROL / HUMAN INTERACTION
 
